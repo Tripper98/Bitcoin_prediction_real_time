@@ -1,4 +1,4 @@
-# Bitcoin_prediction_real_time
+# Bitcoin prediction in real-time
 Authors : DRIOUCHE Adnane, FAKIRI Ismail, EL AMRANI EL IDRISSI Oumaima et OUAZIZ Hajar
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
