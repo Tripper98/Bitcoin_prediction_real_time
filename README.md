@@ -10,9 +10,9 @@ This is the architecture of the App :
 >>We are using the [Messari's API](https://messari.io/api/docs#operation/Get%20all%20Assets) to collect data in real-time. 
 
 Description of files : 
-- producer.py : 
-- kafka_mongo.py : 
-- Mongo_Spark_LSTM.ipynb :
+- producer.py : this is a python script that create our own Kafka Producer.
+- kafka_mongo.py : this is our Consumer that get data from the producer and stock them on MongoDB
+- Mongo_Spark_LSTM.ipynb : this file content is a script of our model LSTM that starts automatically every hour
 
 
 ## II. Installation 
