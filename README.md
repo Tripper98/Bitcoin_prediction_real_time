@@ -10,9 +10,9 @@ This is the architecture of the App :
 >>We are using the [Messari's API](https://messari.io/api/docs#operation/Get%20all%20Assets) to collect data in real-time. 
 
 Description of files : 
-- xxx.py : 
-- eee.py : 
-- eee.pp :
+- producer.py : 
+- kafka_mongo.py : 
+- Mongo_Spark_LSTM.ipynb :
 
 
 ## II. Installation 
