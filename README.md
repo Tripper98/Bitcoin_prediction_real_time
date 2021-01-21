@@ -4,10 +4,11 @@ Authors : DRIOUCHE Adnane, FAKIRI Ismail, EL AMRANI EL IDRISSI Oumaima et OUAZIZ
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## I. Description
-This project will allow you to predict the price of bitoin in real time using Kafka, Spark and MongoDb as a database.
+This project will allow you to predict the price of bitoin in real time using Kafka, Spark and MongoDb as a database.<br/>
 This is the architecture of the App : 
 ![project_Big_Data](https://user-images.githubusercontent.com/46791116/105404886-c812f700-5c2a-11eb-8c8d-4affe90e9d58.png)
 >>We are using the [Messari's API](https://messari.io/api/docs#operation/Get%20all%20Assets) to collect data in real-time. 
+
 Description of files : 
 - xxx.py : 
 - eee.py : 
