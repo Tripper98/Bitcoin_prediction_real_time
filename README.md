@@ -1,5 +1,6 @@
 # Bitcoin_prediction_real_time
 Predict Bitcoin in real-time using Kafka,MongoDb and Spark.
+Authors : DRIOUCHE Adnane, FAKIRI Ismail, EL AMRANI EL IDRISSI Oumaima et OUAZIZ Hajar
 # Bitcoin Prediction 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
