@@ -5,24 +5,24 @@ Authors : DRIOUCHE Adnane, FAKIRI Ismail, EL AMRANI EL IDRISSI Oumaima et OUAZIZ
 
 ## I. Description
 This project will allow you to predict the price of bitoin in real time using Kafka, Spark and MongoDb as a database.
-This is the architecture of our project.
+This is the architecture of the App : 
 ![project_Big_Data](https://user-images.githubusercontent.com/46791116/105404886-c812f700-5c2a-11eb-8c8d-4affe90e9d58.png)
 >>We are using the [Messari's API](https://messari.io/api/docs#operation/Get%20all%20Assets) to collect data in real-time. 
-- Description of files : 
->> xxx.py : 
-eee.py 
-eee.pp
+Description of files : 
+- xxx.py : 
+- eee.py : 
+- eee.pp :
 
 
 ## II. Installation 
 First, you have to install Spark and Kafka.
-To install Kafka : 
->> Windows 10 : see this [link](https://www.goavega.com/install-apache-kafka-on-windows/)
-Ubuntu 16.04 & 18.04 : see this [link](https://tecadmin.net/install-apache-kafka-ubuntu/)
+To install Kafka for : 
+- Windows 10 : see this [link](https://www.goavega.com/install-apache-kafka-on-windows/)
+- Ubuntu 16.04 & 18.04 : see this [link](https://tecadmin.net/install-apache-kafka-ubuntu/)
 
 To install Spark : 
->> Windows 10 : see this [link](https://phoenixnap.com/kb/install-spark-on-windows-10)
-Ubuntu 16.04 & 18.04 : see this [link](https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/)
+- Windows 10 : see this [link](https://phoenixnap.com/kb/install-spark-on-windows-10)
+- Ubuntu 16.04 & 18.04 : see this [link](https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/)
 
 Then install the dependencies and devDependencies.
 
@@ -34,5 +34,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 ## IV. Licence
-**This is Free project !**
+**This is a Free project !**
 **Feel Free and clone it :)**
